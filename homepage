@@ -2,6 +2,11 @@
 <html lang="en-US">
     <head>
         <meta charset="utf-8">
-        <title>My Hello World Document</title>
+        <title>19th Century Paleontology</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
+    <body>
+        <header>
+            <h1>19th Century Paleontology</h1>
+        </header>
+    </body>
