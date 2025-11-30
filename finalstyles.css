@@ -8,6 +8,32 @@ div.container {
   margin: 0 auto;
 }
 
+nav ul {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 0;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  background-color: whitesmoke;
+  list-style: none;
+  text-align: center;
+}
+
+@media all and (min-width: 601px) {
+  nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 30px; 
+  }
+}
+
+nav ul li a {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
 figure {
   width: 50%;
   height: auto;
