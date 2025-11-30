@@ -9,8 +9,6 @@ div.container {
 }
 
 header {
-  border-top: 20px solid saddlebrown;
-  border-bottom: 20px solid saddlebrown;
   background-color: whitesmoke;
   margin-top: 8px; 
   margin-bottom: 50px;
@@ -33,6 +31,8 @@ nav ul {
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 0;
+  border-top: 10px solid saddlebrown;
+  border-bottom: 10px solid saddlebrown;
   background-color: whitesmoke;
   list-style: none;
   text-align: center;
