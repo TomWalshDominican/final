@@ -11,13 +11,15 @@ div.container {
 header {
   border-top: 20px solid saddlebrown;
   border-bottom: 20px solid saddlebrown;
-  background-color: oldlace;
+  background-color: whitesmoke;
   margin-top: 8px; 
   margin-bottom: 50px;
 }
 
 h1 {
   color: saddlebrown;
+  border: 3px solid saddlebrown;
+  border-radius: 20px;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -33,7 +35,7 @@ nav ul {
   padding-left: 0;
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
-  background-color: oldlace;
+  background-color: whitesmoke;
   list-style: none;
   text-align: center;
 }
