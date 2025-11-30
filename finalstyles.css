@@ -8,6 +8,14 @@ div.container {
   margin: 0 auto;
 }
 
+header {
+  border-top: 20px solid saddlebrown;
+  border-bottom: 20px solid saddlebrown;
+  background-color: cornsilk;
+  margin-top: 8px; 
+  margin-bottom: 50px;
+}
+
 h1 {
   color: saddlebrown;
   text-align: center;
