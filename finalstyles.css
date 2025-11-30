@@ -7,9 +7,10 @@ figure {
   max-width: 1020px;
   padding: 15px;
   border: 6px solid black;
-  margin-bottom: 15px;
+  margin: auto;
 }
 
 img {
   width: 100%;
+  display: block;
 }
