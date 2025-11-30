@@ -2,9 +2,14 @@ body {
   font-family: sans-serif;
 }
 
+div.container {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
 figure {
   width: 60%;
-  max-width: 1020px;
   height: auto;
   padding: 15px;
   border: 6px solid gray;
