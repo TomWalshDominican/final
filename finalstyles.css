@@ -8,6 +8,13 @@ div.container {
   margin: 0 auto;
 }
 
+h1 {
+  color: saddlebrown;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
 nav ul {
   padding-top: 15px;
   padding-bottom: 15px;
