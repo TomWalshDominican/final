@@ -16,9 +16,6 @@ header {
 
 h1 {
   color: saddlebrown;
-  padding: 10px;
-  border: 7px solid saddlebrown;
-  border-radius: 20px;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -75,7 +72,9 @@ footer#page-footer {
 }
 
 footer p {
+  color: saddlebrown;
   font-size: 14px;
+  font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
