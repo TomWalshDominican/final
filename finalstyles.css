@@ -11,7 +11,7 @@ div.container {
 header {
   border-top: 20px solid saddlebrown;
   border-bottom: 20px solid saddlebrown;
-  background-color: cornsilk;
+  background-color: oldlace;
   margin-top: 8px; 
   margin-bottom: 50px;
 }
@@ -33,7 +33,7 @@ nav ul {
   padding-left: 0;
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
-  background-color: white;
+  background-color: oldlace;
   list-style: none;
   text-align: center;
 }
@@ -48,6 +48,7 @@ nav ul {
 
 nav ul li a {
   font-size: 14px;
+  font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
