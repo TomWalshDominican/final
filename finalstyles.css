@@ -9,7 +9,6 @@ div.container {
 }
 
 header {
-  background-color: whitesmoke;
   margin-top: 8px; 
   margin-bottom: 50px;
 }
@@ -31,9 +30,8 @@ nav ul {
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 0;
-  border-top: 10px solid saddlebrown;
-  border-bottom: 10px solid saddlebrown;
-  background-color: whitesmoke;
+  border-top: 5px solid saddlebrown;
+  border-bottom: 5px solid saddlebrown;
   list-style: none;
   text-align: center;
 }
@@ -68,7 +66,7 @@ img {
 }
 
 footer#page-footer {
-  border-top: 20px solid saddlebrown;
+  border-top: 5px solid saddlebrown;
   margin-top: 80px;
   text-align: center;
 }
