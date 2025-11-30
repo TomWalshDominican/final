@@ -8,7 +8,8 @@ figure {
   height: auto;
   padding: 15px;
   border: 6px solid black;
-  margin-bottom: 200px;
+  margin: auto;
+  margin-bottom: 30px;
 }
 
 img {
