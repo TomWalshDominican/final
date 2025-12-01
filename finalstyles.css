@@ -16,8 +16,9 @@ header {
 
 h1 {
   color: saddlebrown;
-  font-family: 'Spectral', sans-serif;
+  font-size: 30px;
   font-weight: 600;
+  font-family: 'Spectral', sans-serif;
   padding: 10px;
   border-top: 5px solid saddlebrown;
   text-align: center;
