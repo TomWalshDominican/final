@@ -16,6 +16,7 @@ header {
 
 h1 {
   color: saddlebrown;
+  padding: 10px;
   border-top: 5px solid saddlebrown;
   text-align: center;
   text-transform: uppercase;
