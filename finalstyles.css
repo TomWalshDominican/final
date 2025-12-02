@@ -11,10 +11,9 @@ div.container {
 header {
   background-color: ivory;
   padding: 10px;
-  padding-top: 40px;
   border-top: 5px solid saddlebrown;
-  margin-top: 50px; 
-  margin-bottom: 50px;
+  margin-top: 20px; 
+  margin-bottom: 20px;
 }
 
 h1 {
