@@ -10,6 +10,9 @@ div.container {
 
 header {
   background-color: ivory;
+  padding: 10px;
+  padding-top: 40px;
+  border-top: 5px solid saddlebrown;
   margin-top: 50px; 
   margin-bottom: 50px;
 }
@@ -19,9 +22,6 @@ h1 {
   font-size: 44px;
   font-weight: 600;
   font-family: 'Spectral', sans-serif;
-  padding: 10px;
-  padding-top: 40px;
-  border-top: 5px solid saddlebrown;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
