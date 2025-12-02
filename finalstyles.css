@@ -9,9 +9,9 @@ div.container {
 }
 
 header {
-  background-color: ivory;
-  padding: 10px;
+  padding-top: 10px;
   border-top: 5px solid saddlebrown;
+  background-color: ivory;
   margin-top: 20px; 
   margin-bottom: 20px;
 }
