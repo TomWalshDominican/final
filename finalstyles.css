@@ -18,12 +18,23 @@ header {
 
 h1 {
   color: saddlebrown;
-  font-size: 44px;
   font-weight: 600;
   font-family: 'Spectral', sans-serif;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+@media all and (min-width: 421px) {
+  h1 {
+    font-size: 44px;
+  }
+}
+
+@media all and (max-width: 420px) {
+  h1 {
+  font-size: 24px;
+  }
 }
 
 a {
