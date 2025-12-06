@@ -89,6 +89,12 @@ div#message button {
   float: right;
 }
 
+@media all and (max-width: 601px) {
+  p {
+  hyphens: auto;
+  }
+}
+
 figure {
   width: 50%;
   height: auto;
