@@ -105,6 +105,12 @@ figure {
   margin-bottom: 30px;
 }
 
+@media all and (max-width: 601px) {
+  figcaption {
+  hyphens: auto;
+  }
+}
+
 img {
   width: 100%;
   height: auto;
