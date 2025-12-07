@@ -117,6 +117,11 @@ figure {
   margin-bottom: 20px; 
 }
 
+figure#topfigure {
+  width: 85%;
+  height: auto;
+}
+
 @media all and (max-width: 601px) {
   figcaption {
   hyphens: auto;
