@@ -101,17 +101,13 @@ h2 {
 }
 
 figure {
-  width: 65%;
+  width: 75%;
   height: auto;
   padding: 15px;
   border: 7px solid gray;
   margin: auto;
   margin-top: 30px;
   margin-bottom: 30px;
-}
-
-figcaption {
-  font-size: 12px;
 }
 
 @media all and (max-width: 601px) {
