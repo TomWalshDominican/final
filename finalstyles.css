@@ -101,7 +101,11 @@ h2 {
 }
 
 div.paragraphwithinfo {
+  padding: 15px;
   border: 7px solid saddlebrown;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 figure {
