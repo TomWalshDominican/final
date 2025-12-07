@@ -107,7 +107,7 @@ figure {
   border: 7px solid gray;
   margin: auto;
   margin-top: 50px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 @media all and (max-width: 601px) {
