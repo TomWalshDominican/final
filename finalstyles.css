@@ -104,18 +104,18 @@ div.paragraphwithinfo {
   padding: 15px;
   border: 7px solid saddlebrown;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 25px;
   margin-bottom: 20px;
 }
 
 figure {
   width: 60%;
   height: auto;
-  padding: 15px;
-  border: 7px solid gray;
+  padding: 1px;
+  border: 1px solid gray;
   margin: auto;
-  margin-top: 50px;
-  margin-bottom: 20px;
+  margin-top: 15px;
+  margin-bottom: 20px; 
 }
 
 @media all and (max-width: 601px) {
