@@ -102,6 +102,7 @@ h2 {
 
 div.imagewithinfo {
   padding: 15px;
+  border-top: 2px solid saddlebrown;
   border-bottom: 2px solid saddlebrown;
   margin: auto;
   margin-top: 30px;
