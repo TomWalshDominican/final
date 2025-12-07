@@ -111,8 +111,8 @@ div.paragraphwithinfo {
 figure {
   width: 60%;
   height: auto;
-  padding: 8px;
-  border: 1px solid gray;
+  padding: 10px;
+  border: 2px solid gray;
   margin: auto;
   margin-top: 15px;
   margin-bottom: 20px; 
