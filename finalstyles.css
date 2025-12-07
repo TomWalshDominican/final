@@ -120,6 +120,7 @@ figure {
 figure#topfigure {
   width: 85%;
   height: auto;
+  margin-bottom: 30px;
 }
 
 @media all and (max-width: 601px) {
