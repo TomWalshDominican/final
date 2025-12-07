@@ -94,6 +94,11 @@ h2 {
   font-family: 'Spectral', sans-serif;
 }
 
+h2#pagetitle {
+   border-bottom: 2px solid saddlebrown;
+}
+
+
 @media all and (max-width: 601px) {
   p {
   hyphens: auto;
