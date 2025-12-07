@@ -129,12 +129,14 @@ img {
 }
 
 div#trivia {
+  color: saddlebrown;
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 600;
+  font-family: 'Spectral', sans-serif;
   padding: 22px;
   border: 1px solid saddlebrown;
   border-radius: 24px;
-  background-color: wheat;
+  background-color: ivory;
   opacity: 1;
   transition: opacity .4s ease;
 }
