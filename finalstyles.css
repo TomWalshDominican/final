@@ -101,12 +101,12 @@ h2 {
 }
 
 figure {
-  width: 75%;
+  width: 60%;
   height: auto;
   padding: 15px;
   border: 7px solid gray;
   margin: auto;
-  margin-top: 30px;
+  margin-top: 50px;
   margin-bottom: 30px;
 }
 
