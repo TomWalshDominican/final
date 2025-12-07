@@ -110,6 +110,10 @@ figure {
   margin-bottom: 30px;
 }
 
+figcaption {
+  font-size: 12px;
+}
+
 @media all and (max-width: 601px) {
   figcaption {
   hyphens: auto;
