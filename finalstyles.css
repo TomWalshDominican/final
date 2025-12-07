@@ -89,10 +89,20 @@ div#message button {
   float: right;
 }
 
+h2 {
+  font-weight: 700;
+  font-family: 'Spectral', sans-serif;
+}
+
 @media all and (max-width: 601px) {
   p {
   hyphens: auto;
   }
+}
+
+h3 {
+  font-weight: 700;
+  font-family: 'Spectral', sans-serif;
 }
 
 figure {
