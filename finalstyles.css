@@ -92,10 +92,7 @@ div#message button {
 h2 {
   font-weight: 700;
   font-family: 'Spectral', sans-serif;
-}
-
-h2#pagetitle {
-   border-bottom: 2px solid saddlebrown;
+  border-bottom: 2px solid saddlebrown;
 }
 
 
