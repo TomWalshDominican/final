@@ -102,7 +102,7 @@ h2 {
 
 div.imagewithinfo {
   padding: 15px;
-  border-bottom: 4px groove saddlebrown;
+  border-bottom: 4px dashed saddlebrown;
   margin: auto;
   margin-bottom: 50px;
 }
