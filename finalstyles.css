@@ -106,7 +106,7 @@ div.imagewithinfo {
   padding: 15px;
   border-bottom: 2px solid saddlebrown;
   margin: auto;
-  margin-bottom: 36px;
+  margin-bottom: 42px;
 }
 
 figure {
@@ -141,7 +141,7 @@ div#trivia {
   font-size: 18px;
   font-weight: 600;
   font-family: 'Spectral', sans-serif;
-  padding: 23px;
+  padding: 26px;
   border: 1px solid saddlebrown;
   border-radius: 24px;
   background-color: ivory;
