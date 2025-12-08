@@ -156,10 +156,6 @@ div#trivia.dismissed {
   opacity: 0;
 }
 
-div#trivia button {
-  float: right;
-}
-
 footer#page-footer {
   border-top: 5px solid saddlebrown;
   background-color: ivory;
