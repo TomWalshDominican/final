@@ -87,10 +87,6 @@ div#message.dismissed {
   opacity: 0;
 }
 
-div#message button {
-  float: right;
-}
-
 h2 {
   font-weight: 700;
   font-family: 'Spectral', sans-serif;
