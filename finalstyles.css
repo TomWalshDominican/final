@@ -96,15 +96,15 @@ h2 {
   font-family: 'Spectral', sans-serif;
 }
 
-p.narrowparagraph {
-  max-width: 600px;
-  margin: auto;
-}
-
 @media all and (max-width: 601px) {
   p {
   hyphens: auto;
   }
+}
+
+p.narrowparagraph {
+  max-width: 600px;
+  margin: auto;
 }
 
 div.imagewithinfo {
