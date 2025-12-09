@@ -112,10 +112,13 @@ div.imagewithinfo {
 
 figure {
   width: 80%;
+  height: auto;
+  max-height: 700px;
   padding: 10px;
   border: 2px solid gray;
   margin: auto;
   margin-bottom: 10px; 
+  object-fit: contain;
 }
 
 figure#topfigure {
@@ -133,8 +136,6 @@ figure#topfigure {
 img {
   width: 100%;
   height: auto;
-  max-height: 500px;
-  object-fit: contain;
 }
 
 div#trivia {
