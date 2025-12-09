@@ -97,7 +97,7 @@ h2 {
 }
 
 p.narrowparagraph {
-  max-width: 700px;
+  max-width: 600px;
   margin: auto;
 }
 
@@ -111,6 +111,7 @@ div.imagewithinfo {
   padding: 2px;
   border-bottom: 2px solid saddlebrown;
   margin: auto;
+  margin-top: 20px;
   margin-bottom: 72px;
 }
 
