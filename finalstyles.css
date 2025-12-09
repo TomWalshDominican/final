@@ -96,6 +96,11 @@ h2 {
   font-family: 'Spectral', sans-serif;
 }
 
+p {
+  max-width: 300px;
+  text-align: center;
+}
+
 
 @media all and (max-width: 601px) {
   p {
