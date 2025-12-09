@@ -135,6 +135,7 @@ figure {
 }
 
 figure#topfigure {
+  max-width: 920px;
   margin-bottom: 40px;
 }
 
