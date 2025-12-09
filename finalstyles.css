@@ -112,7 +112,6 @@ div.imagewithinfo {
 
 figure {
   width: 80%;
-  max-height: 600px;
   padding: 10px;
   border: 2px solid gray;
   margin: auto;
