@@ -113,6 +113,7 @@ div.imagewithinfo {
 figure {
   width: max-content;
   max-width: 80%;
+  height: auto;
   padding: 10px;
   border: 2px solid gray;
   margin: auto;
@@ -134,7 +135,7 @@ figure#topfigure {
 img {
   width: 100%;
   height: auto;
-  max-height: 720px;
+  max-height: 680px;
 }
 
 div#trivia {
