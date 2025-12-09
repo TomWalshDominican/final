@@ -111,7 +111,18 @@ div.imagewithinfo {
   padding: 12px;
   margin: auto;
   margin-top: 20px;
-  margin-bottom: 40px;
+}
+
+@media all and (min-width: 601px) {
+  div.imagewithinfo {
+  margin-bottom: 35px;
+  }
+}
+
+@media all and (max-width: 600px) {
+  div.imagewithinfo {
+  margin-bottom: 25px;
+  }
 }
 
 figure {
