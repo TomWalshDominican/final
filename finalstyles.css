@@ -96,7 +96,7 @@ h2 {
   font-family: 'Spectral', sans-serif;
 }
 
-p {
+p.narrowparagraph {
   max-width: 700px;
   margin: auto;
 }
